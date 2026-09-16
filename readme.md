@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner / Title -->
-  <h1>☕ Java Journey & Playground 🚀</h1>
+  <h1> Java Journey & Playground </h1>
   <p><b>Tempat Oprek, Latihan Mandiri, dan Catatan Lab Java | Universitas Brawijaya Edition</b></p>
 
   <!-- Badges -->
@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License" />
   </p>
 
-  <p><i>"Building Up Noble Future — Satu Baris Kode Setiap Hari!"</i> 🦁</p>
+  <p><i>"Building Up Noble Future — Satu Baris Kode Setiap Hari!"</i></p>
 
   ---
 </div>
@@ -23,9 +23,9 @@ Selamat datang di repository latihan mandiri Java gue! 🎯
 Repo ini merupakan jurnal perjalanan belajar pemrograman Java, mulai dari konsep dasar (*Pemrograman Dasar*), konsep lanjut (*Pemrograman Berbasis Objek / PBO*), hingga struktur data.
 
 Semua kodingan di sini dibuat untuk:
-- 🧪 **Eksperimen & Latihan Mandiri:** Menguji pemahaman materi kuliah & nyoba-nyoba logika baru.
-- 📚 **Bank Solusi Tugas:** Arsip pribadi biar kalau lupa tinggal lirik lagi.
-- 🚀 **Persiapan Proyek:** Pondasi sebelum masuk ke framework Java atau pengembangan aplikasi yang lebih kompleks.
+- **Eksperimen & Latihan Mandiri:** Menguji pemahaman materi kuliah & nyoba-nyoba logika baru.
+- **Bank Solusi Tugas:** Arsip pribadi biar kalau lupa tinggal lirik lagi.
+- **Persiapan Proyek:** Pondasi sebelum masuk ke framework Java atau pengembangan aplikasi yang lebih kompleks.
 
 ---
 
@@ -46,10 +46,10 @@ Semua kodingan di sini dibuat untuk:
 <details open>
 <summary><b>2. Pemrograman Berbasis Objek (PBO / OOP) 🟡</b></summary>
 
-- [x] Class & Object (`Constructor`, `Instansiasi`)
-- [x] Encapsulation (`Getter` & `Setter`, `Access Modifier`)
-- [x] Inheritance (`extends`, `super`)
-- [x] Polymorphism (`Overloading` & `Overriding`)
+- [ ] Class & Object (`Constructor`, `Instansiasi`)
+- [ ] Encapsulation (`Getter` & `Setter`, `Access Modifier`)
+- [ ] Inheritance (`extends`, `super`)
+- [ ] Polymorphism (`Overloading` & `Overriding`)
 - [ ] Abstraction (`Abstract Class` & `Interface`)
 - [ ] Exception Handling (`try-catch-finally`)
 
@@ -113,10 +113,10 @@ Pastikan kamu sudah menginstall **JDK (Java Development Kit)** versi 11 ke atas 
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/username-kamu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/username-kamu"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/affandi-rohman-rizky-hardika-402a0928b?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/ryefann/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 <div align="center">
-  <sub>Dibuat dengan ☕ dan semangat anak Brawijaya | Happy Coding!</sub>
+  <sub>Dibuat dengan kopi dan semangat anak Brawijaya | Happy Coding!</sub>
 </div>
