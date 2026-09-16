@@ -105,7 +105,7 @@ Pastikan kamu sudah menginstall **JDK (Java Development Kit)** versi 11 ke atas 
 ## 📊 My GitHub Java Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzkyaffan&layout=compact&theme=prussian&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=rzkyaffan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
